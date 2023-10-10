@@ -6,7 +6,7 @@
 
 **Affiliations:** <sup>1</sup> Assistant Professor, S. Rajaratnam School of International Studies (RSIS), Nanyang Technological University (NTU); <sup>2</sup> Director, 21st Century China Center; Ho Miu Lam Chair Associate Professor, School of Global Policy and Strategy (GPS), University of California San Diego (UCSD)
 
-**Related Citations:**
+**Related Citations:** *(Forthcoming)*
 
 **File Description:**
 | File name                 | Description                                                 |
