@@ -4,11 +4,11 @@
 
 **Authors:** Jonghyuk Lee <sup>1</sup> and Victor C. Shih <sup>2</sup>
 
-**Affiliations:** <sup>1</sup> Assistant Professor, S. Rajaratnam School of International Studies (RSIS), Nanyang Technological University (NTU); <sup>2</sup> Director, 21st Century China Center; Ho Miu Lam Chair Associate Professor, School of Global Policy and Strategy (GPS), University of California San Diego (UCSD)
+**Affiliations:** <sup>1</sup> S. Rajaratnam School of International Studies (RSIS), Nanyang Technological University (NTU); <sup>2</sup> 21st Century China Center, School of Global Policy and Strategy (GPS), University of California San Diego (UCSD)
 
 **Database Name:** the CPC Elite Database
 
-**Related Citations:** *(Forthcoming)*
+**Citations:** *Please cite (forthcoming)*
 
 **File Description:**
 | File name                 | Description                                                 |
