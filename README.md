@@ -9,7 +9,7 @@
 **Database Name:** the CPC Elite Database
 
 **Citations:**
-Jonghyuk Lee and Victor C. Shih, “Loyalty-Competence Trade-off and Leadership Formation in China: Machine-learning Approach,” *PNAS*, 120:45 (2023) - https://doi.org/10.1073/pnas.2305143120
+Jonghyuk Lee and Victor C. Shih, “Loyalty-Competence Trade-off and Leadership Formation in China: Machine-learning Approach,” *PNAS* 120:45 (2023) - https://doi.org/10.1073/pnas.2305143120
 
 **File Description:**
 | File name                 | Description                                                 |
